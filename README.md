@@ -11,10 +11,10 @@
 # BackJoon Tier
 <!-- BOX -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juneseok0107)](https://solved.ac/juneseok0107)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bansongs)](https://solved.ac/bansongs)
 
 <!-- MINI -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=juneseok0107)](https://solved.ac/juneseok0107)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bansongs)](https://solved.ac/bansongs)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
