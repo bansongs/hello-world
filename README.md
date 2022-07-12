@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=JAVA%20STUDY&fontSize=50&animation=twinkling)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSL107)](https://github.com/JSL107/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bansongs)](https://github.com/bansongs/github-readme-stats)
 
 
 # 잔디
